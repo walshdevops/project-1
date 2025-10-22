@@ -1,2 +1,4 @@
 file one
 This is a change made using the online git repository.. Lets see if we can pull this change and edit the updated file.
+-----------------------------------------------------
+The file was pulled to a local repository and this has now been edited.. Lets see if this change is reflected in the newly updated file - first push and commit the change, then check if this change in the file in the online repository has been reflected.
